@@ -3,9 +3,13 @@ Autumn 2023
 
 ## Instructor:
 Dr. Skye Naslund
+
 Instructor, Department of Geography
+
 Email: snaslund@binghamton.edu
+
 Office: Old Johnson 131
+
 Office Hours: ....., or by appointment
 
 ## Course Logistics:
