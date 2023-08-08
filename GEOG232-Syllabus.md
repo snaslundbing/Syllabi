@@ -2,8 +2,7 @@
 Autumn 2023
 
 ## Instructor:
-Dr. Skye Naslund
-
+Dr. Skye Naslund<br>
 Instructor, Department of Geography
 
 Email: snaslund@binghamton.edu
