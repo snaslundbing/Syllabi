@@ -2,8 +2,9 @@
 Autumn 2023
 
 ## Instructor:
-Dr. Skye Naslund<br>
-Instructor, Department of Geography
+Dr. Skye Naslund
+
+Lecturer, Department of Geography
 
 Email: snaslund@binghamton.edu
 
@@ -13,6 +14,7 @@ Office Hours: ....., or by appointment
 
 ## Course Logistics:
 Room: .....
+
 Time: .....
 
 This course is a four credit course which means that students are expected to do 12 - 12.5 hours of course-related work or activity each week.  This includes scheduled class times as well as time spent completing assigned readings, studying for weekly quizzes, completing exercises, preparing a community health profile, and other course-related tasks.  This course assumes no prior knowledge and is open to both majors and non-majors.  
